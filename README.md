@@ -14,3 +14,4 @@ So even though efforts are made there is no proper connection between the produc
 
 Hence our website would be acting as a connection between both the parties to develop the circular 
 economy and find a solution to ensure production models are in a closed loop  rather than their disposal.
+
